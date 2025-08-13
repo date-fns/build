@@ -1,0 +1,27 @@
+{
+  "name": "@date-fns/build",
+  "version": "0.1.0",
+  "description": "date-fns build utilities",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/date-fns/build.git"
+  },
+  "keywords": [
+    "date-fns"
+  ],
+  "author": "Sasha Koss <koss@nocorp.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/date-fns/build/issues"
+  },
+  "homepage": "https://github.com/date-fns/build#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@10.14.0+sha512.ad27a79641b49c3e481a16a805baa71817a04bbe06a38d17e60e2eaee83f6a146c6a688125f5792e48dd5ba30e7da52a5cda4c3992b9ccf333f9ce223af84748"
+}
