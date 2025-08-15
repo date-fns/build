@@ -7,7 +7,7 @@
     "moduleResolution": "NodeNext",
     "allowImportingTsExtensions": true,
     "esModuleInterop": true,
-    "noEmit": true,
+    "emitDeclarationOnly": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "exactOptionalPropertyTypes": true,
